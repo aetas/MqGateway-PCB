@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name StepDown)(type KiCad)(uri /home/mariusz/dev/proj/aetas-smart-home/PCBs/MqGateway/IO_Expander/DCDC_StepDown_LM2596/Footprints)(options "")(descr ""))
+)

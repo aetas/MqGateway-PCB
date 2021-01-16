@@ -1,0 +1,14 @@
+### Module positions - created on śro, 4 lis 2020, 00:23:41 ###
+### Printed by Pcbnew version kicad 5.1.5+dfsg1-2build2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref          Val          Package                              PosX       PosY       Rot  Side
+EXPANDER_1     MCP23017_SP  TSSOP-28_4.4x9.7mm_Pitch0.65mm    84.5000  -113.6000  180.0000  top
+EXPANDER_2     MCP23017_SP  TSSOP-28_4.4x9.7mm_Pitch0.65mm   115.8000  -113.8000  180.0000  top
+EXPANDER_3     MCP23017_SP  TSSOP-28_4.4x9.7mm_Pitch0.65mm   143.0000  -113.7000  180.0000  top
+EXPANDER_4     MCP23017_SP  TSSOP-28_4.4x9.7mm_Pitch0.65mm   171.3000  -113.7000  180.0000  top
+R_LED0         LED          R_2816                           178.1000   -40.2000  270.0000  top
+R_LED1         LED          R_2816                           185.5000   -40.0000  270.0000  top
+R_LED2         LED          R_2816                           170.3000   -40.5000  270.0000  top
+R_LED_POWER_1  LED          R_2816                           161.5000   -38.2000  270.0000  top
+## End

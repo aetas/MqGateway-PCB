@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name yaaj_dcdc_stepdown_lm2596)(type Legacy)(uri ${KIPRJMOD}/DCDC_StepDown_LM2596/Symbols/yaaj_dcdc_stepdown_lm2596.lib)(options "")(descr ""))
+  (lib (name IO_Expander-rescue)(type Legacy)(uri ${KIPRJMOD}/IO_Expander-rescue.lib)(options "")(descr ""))
+)

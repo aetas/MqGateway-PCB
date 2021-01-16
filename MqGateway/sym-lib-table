@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MqGateway-rescue)(type Legacy)(uri ${KIPRJMOD}/MqGateway-rescue.lib)(options "")(descr ""))
+)
