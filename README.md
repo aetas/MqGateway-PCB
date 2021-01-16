@@ -2,7 +2,7 @@
 
 Schematics and PCB design for MqGateway boards.
 
-Files can be read with [KiCad](https://kicad-pcb.org/).
+Source files can be read with [KiCad](https://kicad-pcb.org/). GERBER files are available in the [releases](https://github.com/aetas/MqGateway-PCB/releases).
 
-Read more about [MqGateway](https://mqgateway.com).
+Read more about MqGateway on the [documentation site](https://mqgateway.com).
 
