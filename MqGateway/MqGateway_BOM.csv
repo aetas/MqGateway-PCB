@@ -1,0 +1,26 @@
+Quantity,Value,References,Package,Device,Description,Link
+4,2x2,"3V3_ADD_1, 5V_ADD_1, RS485_MAX_Jumpers_1, RS485_Jumpers_1",,,Pin header 2x2,https://www.piekarz.pl/35904-piny-wtyk-pld20s-20-torow/
+1,1x2,5V_TO_DL33CV_JUMPER_1,,,Pin header 1x2,https://www.piekarz.pl/35901-piny-wtyk-pls02s-2-tory/
+5,Jumper,"3V3_ADD_1, 5V_ADD_1, RS485_MAX_Jumpers_1, RS485_Jumpers_1, 5V_TO_DL33CV_JUMPER_1",,,Jumper for pin header,https://www.piekarz.pl/00481-zwora-jumper-b-1-tor/
+1,LD1117V33,3V3_REGULATOR_1,TO-220-3,LD1117V33,Linear Voltage Regulator 3.3V,https://www.piekarz.pl/13101-stabilizator-st-microelectronics-ld1117v33c/
+2,SW_Push,BUTTON_1 BUTTON_2,,KLS7-TS6601,Tact switch button 4-pin (6x6mm),https://www.piekarz.pl/00678-mikroprzycisk-kls-ts6601-5-6x6mm-5mm-1-5mm/
+2,Screw_Terminal_01x02,"POWER_SWITCH_1, BUTTON_3",,,Screw Terminal 2-pin,https://www.piekarz.pl/00561-laczowka-xy306a-02p-5-0mm-2-tory/
+1,DC 5V,DC_JACK_1,,,DC Power Jack Plug Socket 2.1/5.5,https://www.piekarz.pl/02542-gniazdo-zasilajace-dc-gdc21-55-2-1mm/
+4,MCP23017-E/SP,"EXPANDER_1, EXPANDER_2, EXPANDER_3, EXPANDER_4",DIP28,MCP23017-E/SP,MCP23017 expanders,https://www.piekarz.pl/22712-przetwornik-microchip-mcp23017-e-sp/
+4,36x10mm,"EXPANDER_1, EXPANDER_2, EXPANDER_3, EXPANDER_4",DIP28p narrow (0.3''),,DIP28 sockets for MCP23017 expanders,https://www.piekarz.pl/04818-podstawka-zwykla-dip-dip28p-28-torow/
+1,Extra IO Connector,EXTRA_IO_CONNECTOR_1,,,"Extra IO Connector, IDC 10 pin male socket",https://www.piekarz.pl/17934-wtyk-bh10-s-10-torow/
+1,LEVEL SHIFTER,LEVEL_SHIFTER_1,,,Logic level converter 4-ch 5V to 3.3V,https://www.aliexpress.com/item/32715353192.html
+1,MAX485,MAX485,,,MAX485 TTL to RS-485 Interface Module,https://www.aliexpress.com/item/4000112077167.html
+1,2x12,NanoPi_NEO_1,,,"NanoPi NEO Socket, IDC 24 pin male socket",https://www.maritex.com.pl/zlacza/zlacza_idc/idc_w_rastrze_2_54mm/zlacza_kolkowe_proste_w_rastrze_2_54mm_conntherm_1/bh24s-ct.html
+4,M2.5 30mm,-,,WKKM2530,Screw M2.5 30mm for NanoPi NEO,https://www.piekarz.pl/21920-wkret-m2-5-wkkm2530/
+4,M2.5,-,,NOM252,Screw Nut M2.5 for NanoPi NEO,https://www.piekarz.pl/09575-nakretka-m2-5-nom252/
+2,IDC24-CT,-,,IDC24-CT,Female IDC-plug 24 pin for ribbon cable,https://en.maritex.com.pl/connectors/idc_connectors/idc_connectors_2_54mm_pitch/idc_female_sockets_for_ribbon_cable_2_54_mm_pitch_conntherm/idc24-ct.html
+1,15cm 24-core ribbon,-,,,24-core ribbon cable (15cm),https://www.aliexpress.com/item/32824377459.html
+1,LED Red 3mm,POWER_LED_1,THT d=3mm,,Red LED d=3mm,
+1,150,R_LED_POWER_1,THT,,Red LED resistor,
+1,8P8C x16,RJ45x16_1,,,8P8C/RJ45 Ethernet Socket 2x8 Ports,https://www.aliexpress.com/item/1212644854.html
+1,LED Yellow Green 3mm,STATUS_RGB_LED_1,THT d=3mm,HL-309S40YU77GC-C,2-color Yellow and Green LED d=3mm,https://en.maritex.com.pl/clearance_sale/led/led_-_diodes/ledb-3ygw30-c3.html
+1,10,R_LED1,THT,,Green LED Resistor,
+1,43,R_LED2,THT,,Yellow LED Resistor,
+1,Power switch,-,,KCD1-110A,"Sub-miniature Rocker Switch OFF-ON, power switch",https://en.maritex.com.pl/product/show/39905
+1,Push button,-,,PBW-12B,12mm diameter monostable switch OFF-(ON),https://www.piekarz.pl/34283-przelacznik-pbw-12b/

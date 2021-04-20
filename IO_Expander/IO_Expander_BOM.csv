@@ -1,0 +1,21 @@
+Quantity,Value,References,Package,Device,Description,Link
+4,Screw_Terminal_01x02,"12V_OUTPUT_1, 5V_OUTPUT_1, EXT_BUTTON_1, POWER_SWITCH_1",,,Screw Terminal 2-pin,https://www.piekarz.pl/00561-laczowka-xy306a-02p-5-0mm-2-tory/
+1,Power switch,POWER_SWITCH_1,,KCD1-110A,"Sub-miniature Rocker Switch OFF-ON, power switch",https://en.maritex.com.pl/product/show/39905
+1,LED Red 3mm,12V_POWER_LED_1,d=3mm,,Red LED d=3mm,
+1,,R_12V_POWER_LED_1,THT,,Red LED resistor,
+1,LED Red 3mm,5V_POWER_LED_1,d=3mm,,Red LED d=3mm,
+1,,R_5V_POWER_LED_1,THT,,Red LED resistor,
+1,LED Blue 3mm,EXTENDER_CHECK_LED_1,d=3mm,,Blue LED d=3mm,
+1,,R_EXTENDER_CHECK_LED_1,THT,,Blue LED resistor,
+1,,DC_JACK_1,,,DC Power Jack Plug Socket 2.1/5.5,https://www.piekarz.pl/02542-gniazdo-zasilajace-dc-gdc21-55-2-1mm/
+4,,"EXPANDER_1, EXPANDER_2, EXPANDER_3, EXPANDER_4",DIP28,MCP23017-E/SP,MCP23017 expanders,https://www.piekarz.pl/22712-przetwornik-microchip-mcp23017-e-sp/
+4,36x10mm,"EXPANDER_1, EXPANDER_2, EXPANDER_3, EXPANDER_4",DIP28p narrow (0.3''),,DIP28 sockets for MCP23017 expanders,https://www.piekarz.pl/04818-podstawka-zwykla-dip-dip28p-28-torow/
+1,,LM2596_Module_1,,LM2596 module,LM2596 Step-Down module,https://www.aliexpress.com/item/4000627309533.html
+1,8P8C x16,RJ45x16_1,,RJ45 x16,8P8C/RJ45 Ethernet Socket 2x8 Ports,https://www.aliexpress.com/item/1212644854.html
+1,,RS485_CONNECTOR_1,,PTR STL1550/4G-3.5-H,Terminal block 4-pins 3.5mm,https://www.piekarz.pl/00604-laczowka-stl1550-4-gh-4-tory/
+1,2x2,RS485_OUT_Jumpers_1,,,Pin header 2x2,https://www.piekarz.pl/35904-piny-wtyk-pld20s-20-torow/
+2,Jumper,RS485_OUT_Jumpers_1,,,Jumper for pin header,https://www.piekarz.pl/00481-zwora-jumper-b-1-tor/
+3,Jumper,"SW_SLIDE_SPDT_1, SW_SLIDE_SPDT_2, SW_SLIDE_SPDT_3",,KLS7-SS02-12F20,Miniature SPDT Slide Switch ON-ON,https://www.piekarz.pl/33509-przelacznik-ss02-12f20-l-6/
+2,,"EXTRA_IO_CONNECTOR_1, EXTRA_IO_CONNECTOR_2",,,IDC 10 pin male socket,https://www.piekarz.pl/17934-wtyk-bh10-s-10-torow/
+2,IDC10-CT,-,,,Female IDC-plug 10 pin for ribbon cable,https://www.piekarz.pl/02212-gniazdo-fc10-idc10-10-torow/
+1,10-core ribbon,-,,,10-core ribbon cable,https://www.piekarz.pl/06502-przewod-plaski-awg28-10-10-zyl-linka-cu-0-09mm2/
