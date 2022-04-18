@@ -1,0 +1,31 @@
+Drill report for /home/mariusz/dev/proj/aetas-smart-home/PCBs/MqGateway-PCB/Node/Node.kicad_pcb
+Created on czw, 29 kwi 2021, 00:33:10
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'Node-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,50mm  0,020"  (15 holes)
+    T2  0,64mm  0,025"  (29 holes)
+    T3  0,70mm  0,028"  (2 holes)
+    T4  0,76mm  0,030"  (8 holes)
+    T5  0,89mm  0,035"  (13 holes)
+    T6  1,00mm  0,039"  (8 holes)
+    T7  1,00mm  0,039"  (16 holes)
+    T8  1,02mm  0,040"  (35 holes)
+    T9  1,10mm  0,043"  (3 holes)
+
+    Total plated holes count 129
+
+
+Drill file 'Node-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  3,20mm  0,126"  (2 holes)
+
+    Total unplated holes count 2

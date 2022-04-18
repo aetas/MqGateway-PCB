@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "Arduino Pro Mini - Eagle")(type Eagle)(uri ${KIPRJMOD}/libs/footprints/Arduino-clone.lbr)(options "")(descr ""))
+  (lib (name diy-modules)(type Eagle)(uri ${KIPRJMOD}/libs/footprints/diy-modules-1.8.0/diy-modules.lbr)(options "")(descr ""))
+  (lib (name arduino)(type KiCad)(uri ${KIPRJMOD}/libs/footprints/arduino.pretty)(options "")(descr ""))
+  (lib (name w_pin_strip)(type KiCad)(uri /home/mariusz/dev/proj/aetas-smart-home/PCBs/MqGateway-PCB/libs/mod_pin_strip/w_pin_strip.pretty)(options "")(descr ""))
+  (lib (name w_pth_resistors)(type KiCad)(uri /home/mariusz/dev/proj/aetas-smart-home/PCBs/MqGateway-PCB/libs/mod_pth_resistors/w_pth_resistors.pretty)(options "")(descr ""))
+)

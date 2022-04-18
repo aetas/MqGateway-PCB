@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name arduino-pro-mini)(type Legacy)(uri /home/mariusz/dev/proj/aetas-smart-home/PCBs/MqGateway-PCB/Node/libs/symbols/arduino-pro-mini.lib)(options "")(descr ""))
+  (lib (name arduino)(type Legacy)(uri ${KIPRJMOD}/libs/symbols/arduino.lib)(options "")(descr ""))
+  (lib (name MqGateway-rescue)(type Legacy)(uri /home/mariusz/dev/proj/aetas-smart-home/PCBs/MqGateway-PCB/libs/MqGateway-rescue.lib)(options "")(descr ""))
+)
